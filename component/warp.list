@@ -1,0 +1,22 @@
+# openai
+DOMAIN,chat.openai.com
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+
+# bing ai
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingviz.microsoftapp.net
+
+# ios bing app
+DOMAIN-SUFFIX,dscx.akamaiedge.net
+
+# perplexity ai
+DOMAIN-SUFFIX,perplexity.ai
+
+# reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,reddit.map.fastly.net
+DOMAIN-SUFFIX,redditinc.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditstatus.com
