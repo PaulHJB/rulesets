@@ -89327,7 +89327,6 @@ DOMAIN-SUFFIX,steambig.com
 DOMAIN-SUFFIX,steamboxs.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcn.com
-DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdd.com
 DOMAIN-SUFFIX,steamhost.info
 DOMAIN-SUFFIX,steammm.com
@@ -89336,7 +89335,6 @@ DOMAIN-SUFFIX,steamproxy.net
 DOMAIN-SUFFIX,steampy.com
 DOMAIN-SUFFIX,steamrepcn.com
 DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamxdf.com
 DOMAIN-SUFFIX,stec.net
 DOMAIN-SUFFIX,stedu.net
@@ -118128,11 +118126,8 @@ DOMAIN-SUFFIX,zzzzaaaa.com
 DOMAIN-SUFFIX,zzzzzz.me
 DOMAIN,bytedance.map.fastly.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,time.xtracloud.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN,wmsjsteam.com
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
