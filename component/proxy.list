@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 # network service
 DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,googleapis.cn
 
 # torrent
@@ -29,15 +28,11 @@ DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,simkl.com
 
 # LLM(large-language-model)
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,coze.com
 
 # dev-tools
 DOMAIN-SUFFIX,springdoc.org
 DOMAIN-SUFFIX,mkdocs.org
-DOMAIN-SUFFIX,docker.io
 
 # music
 DOMAIN-SUFFIX,qobuz.com
@@ -48,9 +43,6 @@ DOMAIN-SUFFIX,open.firstory.me
 
 # manga
 DOMAIN-SUFFIX,hamreus.com
-
-# social media
-DOMAIN-SUFFIX,threads.net
 
 # others
 DOMAIN-SUFFIX,881903.com
