@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,abchinese.com
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,abitno.linpie.com
 DOMAIN-SUFFIX,able
 DOMAIN-SUFFIX,ablwang.com
@@ -256,7 +257,6 @@ DOMAIN-SUFFIX,aiweiweiblog.com
 DOMAIN-SUFFIX,ajplus.net
 DOMAIN-SUFFIX,akademiye.org
 DOMAIN-SUFFIX,akamaihd.net
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akdn
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,akiba-web.com
@@ -559,6 +559,7 @@ DOMAIN-SUFFIX,badiucao.com
 DOMAIN-SUFFIX,badjojo.com
 DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,bahamut.akamaized.net
 DOMAIN-SUFFIX,baijie.org
 DOMAIN-SUFFIX,bailandaily.com
 DOMAIN-SUFFIX,baixing.me
@@ -3422,6 +3423,7 @@ DOMAIN-SUFFIX,hsbc
 DOMAIN-SUFFIX,hsex.men
 DOMAIN-SUFFIX,hsfacebook.com
 DOMAIN-SUFFIX,hsjp.net
+DOMAIN-SUFFIX,hsprepack.akamaized.net
 DOMAIN-SUFFIX,hsselite.com
 DOMAIN-SUFFIX,hstern.net
 DOMAIN-SUFFIX,hstt.net
@@ -4116,6 +4118,7 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,linefriends.com
 DOMAIN-SUFFIX,linemobile.com
@@ -4147,6 +4150,7 @@ DOMAIN-SUFFIX,lists.w3.org
 DOMAIN-SUFFIX,litbus-anime.com
 DOMAIN-SUFFIX,litenews.hk
 DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,litvfreepc.akamaized.net
 DOMAIN-SUFFIX,liu-xiaobo.org
 DOMAIN-SUFFIX,liuhanyu.com
 DOMAIN-SUFFIX,liuxiaobo.net
@@ -6688,6 +6692,7 @@ DOMAIN-SUFFIX,toytractorshow.com
 DOMAIN-SUFFIX,tparents.org
 DOMAIN-SUFFIX,tr
 DOMAIN-SUFFIX,tr.com
+DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
 DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,trakt.tv
@@ -7161,6 +7166,7 @@ DOMAIN-SUFFIX,vocaroo.com
 DOMAIN-SUFFIX,vocativ.com
 DOMAIN-SUFFIX,vocn.tv
 DOMAIN-SUFFIX,vocus.cc
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,vod360.net
 DOMAIN-SUFFIX,vodka
 DOMAIN-SUFFIX,voicettank.org
@@ -7875,10 +7881,16 @@ DOMAIN-SUFFIX,zyxel.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
+DOMAIN,amp.akamaized.net
+DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,as-dash-uk-live.akamaized.net
+DOMAIN,as-hls-uk-live.akamaized.net
 DOMAIN,asahishimbun.sc.omtrdc.net
+DOMAIN,audio-ak-spotify-com.akamaized.net
+DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
 DOMAIN,browser-intake-datadoghq.com
@@ -7918,6 +7930,8 @@ DOMAIN,dgeft87wbj63p.cloudfront.net
 DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dqrpb9wgowsf5.cloudfront.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
 DOMAIN,ds0h3roq6wcgc.cloudfront.net
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,dykkng5hnh52u.cloudfront.net
@@ -7927,6 +7941,8 @@ DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,hammerandchisel.ssl.zendesk.com
+DOMAIN,heads-ak-spotify-com.akamaized.net
+DOMAIN,heads4-ak-spotify-com.akamaized.net
 DOMAIN,himalaya-exchange.zendesk.com
 DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,hls.itunes.apple.com
@@ -7941,6 +7957,8 @@ DOMAIN,np-edge.itunes.apple.com
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
+DOMAIN,p-events-delivery.akamaized.net
+DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,pplx-res.cloudinary.com
@@ -7955,6 +7973,18 @@ DOMAIN,spotify.map.fastlylb.net
 DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
+DOMAIN,ve-dash-uk-live.akamaized.net
+DOMAIN,ve-uhd-push-uk-live.akamaized.net
+DOMAIN,vod-dash-uk-live.akamaized.net
+DOMAIN,vod-dash-ww-live.akamaized.net
+DOMAIN,vod-hls-uk-live.akamaized.net
+DOMAIN,vod-sub-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.akamaized.net
+DOMAIN,vod-thumb-ww-live.akamaized.net
+DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+DOMAIN,vs-hls-push-uk-live.akamaized.net
+DOMAIN,vs-hls-pushb-uk-live.akamaized.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.search.windows.net
