@@ -22,4 +22,4 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditstatus.com
 
 # game
-DOMAIN-SUFFIX,konami.net
+DOMAIN,account.konami.net
