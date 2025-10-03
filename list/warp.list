@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,dscx.akamaiedge.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,konami.net
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -46,6 +45,7 @@ DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
+DOMAIN,account.konami.net
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
