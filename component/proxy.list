@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,googleapis.cn
 
 # torrent
+DOMAIN-SUFFIX,aither.cc
 DOMAIN-SUFFIX,digitalcore.club
 DOMAIN-SUFFIX,ultra.cc
 DOMAIN-SUFFIX,deneb.usbx.me
