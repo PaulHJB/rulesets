@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,amazonaws.com
 
 # torrent
 DOMAIN-SUFFIX,aither.cc
