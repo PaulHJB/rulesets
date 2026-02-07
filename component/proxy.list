@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,backblaze.com
 
 # torrent
 DOMAIN-SUFFIX,aither.cc
@@ -49,10 +50,13 @@ DOMAIN-SUFFIX,hamreus.com
 # game
 DOMAIN-SUFFIX,untapped.gg
 DOMAIN-SUFFIX,masterduelmeta.com
+DOMAIN-SUFFIX,itch.io
+DOMAIN-SUFFIX,gaggle.fun
 
 # others
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,69shuba.com
 DOMAIN-SUFFIX,69xinshu.com
 DOMAIN-SUFFIX,stepn.com
+DOMAIN-SUFFIX,nextcloud.com
 DOMAIN-SUFFIX,jellyfin.org
