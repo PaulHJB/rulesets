@@ -4,9 +4,5 @@ DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 
-# others
-DOMAIN-SUFFIX,bixin.com
-DOMAIN-SUFFIX,hibixin.com
-
 # Nas
 DOMAIN-SUFFIX,smallelephant.myds.me
