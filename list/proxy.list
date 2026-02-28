@@ -737,6 +737,7 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,akiba-souken.com
 DOMAIN-SUFFIX,akiba-web.com
+DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,akinator.com
 DOMAIN-SUFFIX,akow.org
 DOMAIN-SUFFIX,akthelp.com
@@ -1209,6 +1210,7 @@ DOMAIN-SUFFIX,ass4all.com
 DOMAIN-SUFFIX,assembla.com
 DOMAIN-SUFFIX,assesphoto.com
 DOMAIN-SUFFIX,assets.bwbx.io
+DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,assimp.org
 DOMAIN-SUFFIX,assistirhentai.com
 DOMAIN-SUFFIX,assoass.com
@@ -1356,6 +1358,7 @@ DOMAIN-SUFFIX,awssecworkshops.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,awsthinkbox.com
 DOMAIN-SUFFIX,awstrack.me
+DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,awwcn.buzz
 DOMAIN-SUFFIX,awwcn.xyz
 DOMAIN-SUFFIX,axbdoll.com.tw
@@ -4813,6 +4816,7 @@ DOMAIN-SUFFIX,freecamsfan.com
 DOMAIN-SUFFIX,freecartoons.biz
 DOMAIN-SUFFIX,freechatnow.com
 DOMAIN-SUFFIX,freechinaweibo.com
+DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedomhouse.org
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freedomplatform.tv
@@ -8014,6 +8018,7 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,medium.systems
 DOMAIN-SUFFIX,medow.ru
 DOMAIN-SUFFIX,medrxiv.org
+DOMAIN-SUFFIX,meee.com.tw
 DOMAIN-SUFFIX,meendo.com
 DOMAIN-SUFFIX,meet.new
 DOMAIN-SUFFIX,meetandfuck.games
@@ -8248,7 +8253,9 @@ DOMAIN-SUFFIX,mitpressjournals.org
 DOMAIN-SUFFIX,miuipolska.pl
 DOMAIN-SUFFIX,mixasiansex.com
 DOMAIN-SUFFIX,mixero.com
+DOMAIN-SUFFIX,mixi.co.jp
 DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net
 DOMAIN-SUFFIX,mixmaturesex.com
 DOMAIN-SUFFIX,mixvintagesex.com
 DOMAIN-SUFFIX,mixx.com
@@ -9291,6 +9298,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openbook.org.tw
 DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,opencreate.org
+DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,opengraphprotocol.com
@@ -9405,6 +9413,7 @@ DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,ozodlik.org
 DOMAIN-SUFFIX,ozvoice.org
 DOMAIN-SUFFIX,pachosting.com
+DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,packer.io
 DOMAIN-SUFFIX,pacom.mil
@@ -12481,6 +12490,7 @@ DOMAIN-SUFFIX,toptoonsites.com
 DOMAIN-SUFFIX,topvids.net
 DOMAIN-SUFFIX,topxxxpornvids.com
 DOMAIN-SUFFIX,topyoungporn.com
+DOMAIN-SUFFIX,tor.eff.org
 DOMAIN-SUFFIX,torguard.net
 DOMAIN-SUFFIX,torlock.com
 DOMAIN-SUFFIX,toroporno.com
@@ -12841,6 +12851,7 @@ DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,unholyknight.com
 DOMAIN-SUFFIX,uninhibitedcomix.com
 DOMAIN-SUFFIX,unirule.cloud
+DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
@@ -13674,6 +13685,7 @@ DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
 DOMAIN-SUFFIX,www.aolnews.com
 DOMAIN-SUFFIX,www.bing.com
+DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,www.cmoinc.org
 DOMAIN-SUFFIX,www.dmm.com
 DOMAIN-SUFFIX,www.eastturkistan.net
@@ -14879,6 +14891,7 @@ DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,packages.microsoft.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,poshtestgallery.cloudapp.net
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,prodforza.blob.core.windows.net
