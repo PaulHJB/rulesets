@@ -13302,8 +13302,6 @@ IP-CIDR,223.29.255.0/24,no-resolve
 IP-CIDR,223.64.0.0/10,no-resolve
 IP-CIDR,23.161.8.0/24,no-resolve
 IP-CIDR,23.236.111.0/24,no-resolve
-IP-CIDR,23.247.128.0/24,no-resolve
-IP-CIDR,23.247.130.0/24,no-resolve
 IP-CIDR,26.234.64.0/22,no-resolve
 IP-CIDR,26.241.140.0/22,no-resolve
 IP-CIDR,27.0.128.0/21,no-resolve
