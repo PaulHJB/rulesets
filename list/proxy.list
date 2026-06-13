@@ -19289,6 +19289,7 @@ DOMAIN-SUFFIX,qwant.de
 DOMAIN-SUFFIX,qwant.fr
 DOMAIN-SUFFIX,qwant.it
 DOMAIN-SUFFIX,qwapi.com
+DOMAIN-SUFFIX,qy0.ru
 DOMAIN-SUFFIX,qysg.cc
 DOMAIN-SUFFIX,qysg7.buzz
 DOMAIN-SUFFIX,qysg8.buzz
@@ -24890,6 +24891,8 @@ DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,wnacg.link
 DOMAIN-SUFFIX,wnacg.org
+DOMAIN-SUFFIX,wnacg.ru
+DOMAIN-SUFFIX,wnacg01.link
 DOMAIN-SUFFIX,wnoaissulli1.com
 DOMAIN-SUFFIX,wo.tc
 DOMAIN-SUFFIX,wo3ttt.wordpress.com
@@ -27153,6 +27156,7 @@ DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
 DOMAIN,steampipe.akamaized.net
 DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamugcquincy.blob.core.windows.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
