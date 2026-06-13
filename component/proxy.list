@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,backblaze.com
+DOMAIN-SUFFIX,cloudcone.com
 
 # torrent
 DOMAIN-SUFFIX,aither.cc
@@ -51,6 +52,7 @@ DOMAIN-SUFFIX,untapped.gg
 DOMAIN-SUFFIX,masterduelmeta.com
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,gaggle.fun
+DOMAIN-SUFFIX,paradox-interactive.com
 
 # others
 DOMAIN-SUFFIX,881903.com
