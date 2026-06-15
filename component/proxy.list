@@ -31,6 +31,8 @@ DOMAIN-SUFFIX,autobrr.com
 # watchlist
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,simkl.com
+DOMAIN-SUFFIX,sonarr.tv
+DOMAIN-SUFFIX,thexem.info
 
 # LLM(large-language-model)
 DOMAIN-SUFFIX,coze.com
