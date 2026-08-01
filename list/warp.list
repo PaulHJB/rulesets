@@ -442,8 +442,11 @@ DOMAIN-SUFFIX,gfacecbook.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,groups.com
 DOMAIN-SUFFIX,gyutte.site
@@ -521,6 +524,7 @@ DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,intgram.com
 DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,jules.google.com
@@ -597,6 +601,7 @@ DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,newsfeed.com
 DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,nijimiss.moe
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,oaistatic.com
