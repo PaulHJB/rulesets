@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,servarr.com
 
 # LLM(large-language-model)
 DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,opencode.ai
 
 # dev-tools
 DOMAIN-SUFFIX,springdoc.org
